@@ -409,6 +409,9 @@ pt-BR:
         precision: 1
 
   spree:
+    nav_bar:
+      show_search: Mostrar busca
+    add_new_address: Adicionar novo endereço
     abbreviation: Abreviação
     accept: Aceitar
     acceptance_errors:
