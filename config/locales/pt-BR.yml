@@ -411,6 +411,10 @@ pt-BR:
   spree:
     nav_bar:
       show_search: Mostrar busca
+      show_menu: Mostrar menu
+      show_user_menu: Mostrar menu do usuário
+      my_account: Minha conta
+      log_out: Sair
     add_new_address: Adicionar novo endereço
     abbreviation: Abreviação
     accept: Aceitar
